@@ -1,0 +1,9 @@
+.des{
+    max-width: 70%;
+}
+body{
+    margin: 0;
+    width: 100vm;
+    height: 100vh;
+    background-image: url("bc.png");
+}
